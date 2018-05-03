@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![El meme del pingüino](https://i.imgur.com/4WO81fd.jpg)
